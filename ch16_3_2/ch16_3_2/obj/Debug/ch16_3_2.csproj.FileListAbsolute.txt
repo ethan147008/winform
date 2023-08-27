@@ -1,0 +1,10 @@
+C:\Users\chlee\OneDrive\文件\GitHub\winform\ch16_3_2\ch16_3_2\bin\Debug\ch16_3_2.exe.config
+C:\Users\chlee\OneDrive\文件\GitHub\winform\ch16_3_2\ch16_3_2\bin\Debug\ch16_3_2.exe
+C:\Users\chlee\OneDrive\文件\GitHub\winform\ch16_3_2\ch16_3_2\bin\Debug\ch16_3_2.pdb
+C:\Users\chlee\OneDrive\文件\GitHub\winform\ch16_3_2\ch16_3_2\obj\Debug\ch16_3_2.csproj.AssemblyReference.cache
+C:\Users\chlee\OneDrive\文件\GitHub\winform\ch16_3_2\ch16_3_2\obj\Debug\ch16_3_2.Form1.resources
+C:\Users\chlee\OneDrive\文件\GitHub\winform\ch16_3_2\ch16_3_2\obj\Debug\ch16_3_2.Properties.Resources.resources
+C:\Users\chlee\OneDrive\文件\GitHub\winform\ch16_3_2\ch16_3_2\obj\Debug\ch16_3_2.csproj.GenerateResource.cache
+C:\Users\chlee\OneDrive\文件\GitHub\winform\ch16_3_2\ch16_3_2\obj\Debug\ch16_3_2.csproj.CoreCompileInputs.cache
+C:\Users\chlee\OneDrive\文件\GitHub\winform\ch16_3_2\ch16_3_2\obj\Debug\ch16_3_2.exe
+C:\Users\chlee\OneDrive\文件\GitHub\winform\ch16_3_2\ch16_3_2\obj\Debug\ch16_3_2.pdb

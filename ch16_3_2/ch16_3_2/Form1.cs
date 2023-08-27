@@ -19,7 +19,7 @@ namespace ch16_3_2
 
         private void button1_Click(object sender, EventArgs e)
         {
-
+            label1.Text = "按下Button按鈕-V2.0";
         }
     }
 }
